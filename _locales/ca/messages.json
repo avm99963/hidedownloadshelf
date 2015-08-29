@@ -1,0 +1,10 @@
+{
+	"name": {
+		"message": "Ocultar barra de descàrregues",
+		"description": "Extension's name"
+	},
+	"description": {
+		"message": "Extensió que fa que no es mostri la barra de descàrregues fins i tot quan es descarrega un arxiu.",
+		"description": "Extension's description"
+	}
+}

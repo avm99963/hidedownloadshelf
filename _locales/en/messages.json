@@ -1,0 +1,10 @@
+{
+	"name": {
+		"message": "Hide downloads shelf",
+		"description": "Extension's name"
+	},
+	"description": {
+		"message": "This extension makes Chrome hide the downloads shelf even when a file is downloaded.",
+		"description": "Extension's description"
+	}
+}

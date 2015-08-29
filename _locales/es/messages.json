@@ -1,0 +1,10 @@
+{
+	"name": {
+		"message": "Ocultar barra de descargas",
+		"description": "Extension's name"
+	},
+	"description": {
+		"message": "Extensión que hace que no se muestre la barra de descargas aún cuando se descarga un archivo.",
+		"description": "Extension's description"
+	}
+}
